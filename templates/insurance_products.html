@@ -1,0 +1,33 @@
+<!-- templates/insurance.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Insurance Products</title>
+</head>
+<body>
+    <h1>Insurance Products</h1>
+
+    <form action="/insurance-ui/add" method="post">
+        <input type="text" name="name_product" placeholder="Product Name" required>
+        <input type="number" step="0.01" name="price" placeholder="Price" required>
+        <input type="text" name="coverage" placeholder="Coverage" required>
+        <input type="text" name="risk_level" placeholder="Risk Level" required>
+        <input type="text" name="name_company" placeholder="Company Name" required>
+        <button type="submit">Add Product</button>
+    </form>
+
+    <ul>
+        {% for product in products %}
+            <li>
+                <b>{{ product.name_product }}</b> – ${{ product.price }},
+                Coverage: {{ product.coverage }},
+                Risk: {{ product.risk_level }},
+                Company: {{ product.name_company }}
+                <form action="/insurance-ui/delete/{{ product.id_product }}" method="post" style="display:inline;">
+                    <button type="submit">Delete</button>
+                </form>
+            </li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
