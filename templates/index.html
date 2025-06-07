@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Insurance Products</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+    <!-- LOGO + ОПИС -->
+<div class="top-logo">
+    <div class="logo-container">
+        <img src="/static/Veloriance.png" alt="Logo" class="logo">
+        <h2 class="slogan">Manage your insurance products easily and efficiently</h2>
+        <p class="site-description">
+            Veloriance is a web-based platform designed to simplify the management of insurance products.
+            From adding new plans to editing existing policies and removing outdated ones, this tool provides
+            everything you need to efficiently handle insurance offerings within your company. The intuitive
+            interface makes navigation seamless, even for first-time users.
+        </p>
+    </div>
+</div>
+
+
+    <!-- HEADER З ЗАГОЛОВКОМ І КНОПКОЮ -->
+    <div class="header">
+        <h1>Insurance Products</h1>
+        <a href="/add_product" class="button-link">+ Add New Product</a>
+    </div>
+
+    <!-- ТАБЛИЦЯ З ПРОДУКТАМИ -->
+    <table>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Price</th>
+                <th>Coverage</th>
+                <th>Risk Level</th>
+                <th>Company</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for product in products %}
+            <tr>
+                <td>{{ product.id_product }}</td>
+                <td>{{ product.name_product }}</td>
+                <td>{{ product.price }}</td>
+                <td>{{ product.coverage }}</td>
+                <td>{{ product.risk_level }}</td>
+                <td>{{ product.name_company }}</td>
+                <td>
+                    <a href="/edit_product/{{ product.id_product }}" class="button-link">Edit</a>
+                    <form method="post" action="/delete_product/{{ product.id_product }}" style="display:inline;">
+                        <button type="submit" class="button-delete" onclick="return confirm('Are you sure?');">Delete</button>
+                    </form>
+                </td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+
+</body>
+</html>

@@ -1,0 +1,1001 @@
+id_product,name_product,price,coverage,risk_level,name_company
+1,Set 1,3983,подорожі,High,Gutierrez-Lopez
+2,Send 2,4610,медичне,Low,"Cook, Porter and Mcclain"
+3,Value 3,3167,медичне,Medium,Guzman-Horne
+4,Attention 4,3547,медичне,Low,Peters-Hamilton
+5,Against 5,3967,медичне,Low,Sherman Ltd
+6,Next 6,375,майнове,High,"Turner, Pace and Cole"
+7,Statement 7,3923,майнове,Medium,"Dawson, Thompson and Taylor"
+8,End 8,1117,майнове,Low,Cooper-Johnson
+9,Same 9,2214,життя,High,Gray-French
+10,Mind 10,3922,життя,High,"Arnold, White and Vasquez"
+11,Just 11,2132,від нещасного випадку,High,Rivera LLC
+12,Realize 12,4907,подорожі,Low,"Lawrence, Palmer and Fowler"
+13,Law 13,3412,медичне,High,Wolfe-Smith
+14,Across 14,1104,подорожі,High,"Moore, Baxter and Ortiz"
+15,Success 15,1874,від нещасного випадку,Medium,Mata and Sons
+16,West 16,4564,від нещасного випадку,High,Smith-Williams
+17,Can 17,4135,подорожі,Low,Myers and Sons
+18,Will 18,990,подорожі,Low,Arnold-Thomas
+19,Option 19,2233,подорожі,High,Dennis-Brown
+20,Population 20,913,майнове,Low,"Pierce, Joseph and Williams"
+21,Will 21,1021,подорожі,Medium,Griffin-Ross
+22,Future 22,3324,життя,Medium,Reed-Lewis
+23,Return 23,3210,медичне,Low,Gordon-Wright
+24,Goal 24,3171,життя,Low,Miller-Garcia
+25,Source 25,2656,подорожі,High,Wilkerson Ltd
+26,Meet 26,1728,життя,Medium,"Brady, Lee and Thomas"
+27,Career 27,3826,майнове,Low,Richardson LLC
+28,Present 28,2042,медичне,High,Martinez-Lane
+29,Grow 29,1421,від нещасного випадку,Low,"Moore, Taylor and James"
+30,Culture 30,224,життя,Low,"Bowers, Gordon and Sanchez"
+31,Else 31,3580,подорожі,Medium,Cannon-Montgomery
+32,Director 32,141,подорожі,Medium,Johnson-Martin
+33,Rise 33,1998,подорожі,High,Ferguson LLC
+34,Condition 34,1039,життя,Medium,"Jenkins, Mitchell and Becker"
+35,Early 35,3790,майнове,Low,Riley-Estes
+36,Through 36,3273,від нещасного випадку,High,"Lewis, Francis and Lopez"
+37,System 37,3594,подорожі,Low,"Rogers, Walters and Parker"
+38,Natural 38,3622,подорожі,Medium,Gilbert and Sons
+39,Environment 39,4945,від нещасного випадку,Low,Beasley-Dickson
+40,Cost 40,4088,подорожі,Low,"Huerta, Becker and Reed"
+41,Practice 41,1370,подорожі,Medium,"Campos, Ruiz and Miller"
+42,Remain 42,3777,майнове,Low,Smith-Meadows
+43,Too 43,1115,подорожі,Medium,Weiss-Ramos
+44,Federal 44,3539,життя,Medium,Burgess-Clarke
+45,Consumer 45,4862,медичне,Low,Cervantes LLC
+46,Board 46,1693,медичне,Medium,Gill-Stevenson
+47,Section 47,4338,майнове,Medium,Miller-Smith
+48,Three 48,679,майнове,Medium,"Meyer, Clark and Sims"
+49,Country 49,1676,подорожі,High,"Anderson, Roberts and Scott"
+50,Pretty 50,4878,медичне,Medium,"Cummings, Garcia and Buchanan"
+51,Coach 51,854,медичне,Low,Kent LLC
+52,Do 52,4782,майнове,Medium,Brooks-Perez
+53,Quickly 53,2674,подорожі,Low,Donovan and Sons
+54,Kind 54,525,життя,High,"Shannon, Hernandez and Green"
+55,Provide 55,651,життя,Low,Maynard and Sons
+56,Material 56,1202,від нещасного випадку,Low,"Cline, Stevenson and Jordan"
+57,Generation 57,596,майнове,High,Foster LLC
+58,Quickly 58,3495,подорожі,Medium,Davis-Joyce
+59,Style 59,1774,подорожі,High,Thomas-Estrada
+60,Everyone 60,3702,від нещасного випадку,High,Johnson-Williams
+61,Price 61,1481,життя,High,"Alvarez, Keith and Welch"
+62,Second 62,1301,від нещасного випадку,Low,"Morton, Williams and Davis"
+63,Decision 63,2968,майнове,Medium,Ramirez-Hunt
+64,Kind 64,4355,життя,High,Waller-Williams
+65,Election 65,1506,подорожі,Medium,Sherman-Cunningham
+66,Must 66,190,подорожі,Low,Davis-Mccormick
+67,Worker 67,1763,життя,High,Knox Group
+68,Customer 68,3532,від нещасного випадку,Low,"Frederick, May and Martin"
+69,Author 69,2766,майнове,High,"Small, Nicholson and Woodward"
+70,Really 70,2468,від нещасного випадку,Medium,Brown-Bradley
+71,Range 71,949,від нещасного випадку,Medium,Quinn Inc
+72,Dog 72,3828,медичне,High,"Cabrera, Patterson and Ayers"
+73,Teach 73,3764,життя,Low,Jackson Ltd
+74,Operation 74,287,подорожі,Medium,Torres-Wagner
+75,Himself 75,3186,медичне,Medium,Hansen Inc
+76,Exist 76,252,медичне,High,Gordon-Werner
+77,Stuff 77,4819,майнове,Medium,"Diaz, Blake and Burton"
+78,Space 78,2062,життя,Low,Humphrey Group
+79,Pm 79,2984,подорожі,High,"Blair, Richardson and Hill"
+80,Weight 80,4098,життя,High,Fitzgerald Inc
+81,Plant 81,2293,медичне,Low,Hernandez Group
+82,Game 82,4971,життя,Medium,Pearson-Petty
+83,Event 83,1329,життя,Medium,Lewis Ltd
+84,Or 84,1693,життя,Low,"Ramirez, Nelson and Durham"
+85,Season 85,4166,від нещасного випадку,High,Cannon PLC
+86,Wish 86,3138,медичне,Medium,Shepard Ltd
+87,Field 87,1164,подорожі,Low,Miller Inc
+88,Season 88,4097,подорожі,Low,Rojas-Armstrong
+89,Quickly 89,1633,медичне,Low,"Wells, Cooper and Oneill"
+90,Majority 90,2858,життя,Medium,"Smith, Reynolds and Lawson"
+91,Activity 91,1273,медичне,Low,Norton Inc
+92,Popular 92,3546,життя,Low,Olson Inc
+93,Add 93,556,майнове,Low,"Grant, Hanna and Martin"
+94,Color 94,255,подорожі,Low,Yu Group
+95,Imagine 95,1385,від нещасного випадку,Medium,"Reyes, Cruz and Nunez"
+96,Become 96,1540,життя,Medium,Barnes Inc
+97,Young 97,4102,медичне,High,"James, Singh and Hunter"
+98,Foreign 98,2182,від нещасного випадку,Medium,"Brown, Clark and Fowler"
+99,Ok 99,1619,подорожі,Medium,Edwards-Perry
+100,Magazine 100,326,майнове,Medium,"Daniels, Parks and Thomas"
+101,Save 101,3275,медичне,Medium,Evans-Hanson
+102,Report 102,2323,від нещасного випадку,Low,"Torres, Martin and Marshall"
+103,Too 103,3960,майнове,Low,Jackson Group
+104,Beyond 104,2642,подорожі,High,Luna-Lawrence
+105,Environment 105,2904,майнове,Medium,Carter-Finley
+106,Bed 106,4236,подорожі,Medium,Holloway PLC
+107,Assume 107,4762,подорожі,Medium,Lee LLC
+108,Less 108,2647,майнове,Medium,"Rubio, Davis and West"
+109,Itself 109,1469,медичне,Low,"Sharp, Leonard and Weaver"
+110,Address 110,1282,подорожі,Low,"Scott, Meyer and Soto"
+111,Deal 111,3889,медичне,Medium,Hodge LLC
+112,Bank 112,2857,від нещасного випадку,Medium,"Gonzalez, Chen and Carter"
+113,Past 113,167,медичне,Low,"Nguyen, Kerr and Anthony"
+114,Participant 114,3559,подорожі,Low,"Johnson, Long and Holmes"
+115,Fill 115,3824,майнове,High,Burgess PLC
+116,Short 116,2454,майнове,High,Jones-Hodges
+117,Production 117,4955,життя,Low,Burnett-Anderson
+118,Option 118,4908,майнове,Medium,"Lopez, Lynch and Jimenez"
+119,Section 119,4470,життя,Medium,Lee Group
+120,Think 120,1622,життя,Medium,"Dawson, White and Pierce"
+121,Campaign 121,2546,життя,Medium,Jackson-Nguyen
+122,Method 122,4106,подорожі,Medium,Guerra Group
+123,Area 123,668,медичне,High,"Garcia, Lee and Adams"
+124,Side 124,1217,подорожі,High,"Erickson, Hurst and Nunez"
+125,Car 125,2043,медичне,Low,Hudson-Spence
+126,However 126,4261,подорожі,Low,Alvarez and Sons
+127,Green 127,4088,від нещасного випадку,Medium,Kirk and Sons
+128,Help 128,2604,життя,Medium,Oliver Group
+129,Table 129,2796,майнове,High,"Cummings, Cervantes and Williams"
+130,Way 130,3468,від нещасного випадку,Low,Pace-Lozano
+131,Learn 131,3917,життя,Medium,"Solis, Serrano and Bonilla"
+132,Himself 132,4118,майнове,High,Parks-Perez
+133,Top 133,2727,від нещасного випадку,Medium,Perry-Villanueva
+134,Southern 134,4668,подорожі,Low,"Robinson, Downs and Gibbs"
+135,Treatment 135,3210,життя,High,Short-Wall
+136,Right 136,2371,життя,Low,"Alexander, Hernandez and Harper"
+137,Left 137,2899,майнове,High,"Lester, Jones and Vazquez"
+138,Relationship 138,2358,медичне,Medium,"Miranda, Cooper and Berry"
+139,Go 139,238,від нещасного випадку,High,"Curry, Taylor and Adams"
+140,Early 140,3644,від нещасного випадку,High,"Luna, Jordan and Stewart"
+141,Peace 141,1389,медичне,Medium,"Martin, Miller and Weeks"
+142,Table 142,2676,подорожі,Medium,Jones Ltd
+143,Out 143,1002,майнове,Low,"Johnson, Ramos and Reed"
+144,Big 144,684,життя,Low,"Macias, Warren and Rodriguez"
+145,Challenge 145,4130,від нещасного випадку,Low,Smith PLC
+146,Opportunity 146,1648,від нещасного випадку,High,Powers-Johnson
+147,Generation 147,4076,подорожі,Low,Goodman-Davila
+148,Phone 148,1883,подорожі,High,Padilla Inc
+149,Cultural 149,4052,від нещасного випадку,Low,"Miller, Nelson and Perry"
+150,Meeting 150,3415,медичне,High,Matthews Group
+151,Idea 151,4469,життя,Medium,Snyder Inc
+152,Need 152,735,від нещасного випадку,Low,Jacobs LLC
+153,Stand 153,4962,від нещасного випадку,Low,Fuentes Inc
+154,Trial 154,2542,майнове,High,Alvarado LLC
+155,Nothing 155,2548,майнове,Low,Walton-Ho
+156,Look 156,2469,медичне,Medium,"Yates, Charles and Campbell"
+157,Either 157,1800,від нещасного випадку,Low,Eaton Ltd
+158,All 158,2546,від нещасного випадку,Low,"Robinson, Powell and Chavez"
+159,Win 159,3057,життя,Low,Waters-Taylor
+160,Worry 160,3430,медичне,Medium,Parsons PLC
+161,Seem 161,4770,медичне,Medium,Maldonado Inc
+162,Trouble 162,462,подорожі,Low,"Conway, Collins and Martin"
+163,There 163,3650,життя,Medium,"Lawrence, Wang and Baker"
+164,Price 164,393,медичне,Low,Robinson PLC
+165,Gun 165,2975,від нещасного випадку,Low,"Rodriguez, Dawson and Richard"
+166,Stage 166,3104,життя,Low,Miller-Murphy
+167,Believe 167,536,життя,Medium,"Smith, Knox and Johnson"
+168,Nearly 168,1051,життя,Low,"Todd, Reed and Schaefer"
+169,Group 169,2140,подорожі,Medium,Johnson Ltd
+170,Tax 170,2620,майнове,High,Bush-Johnson
+171,Thought 171,3505,майнове,Medium,"Jones, Myers and Wright"
+172,Radio 172,941,від нещасного випадку,High,Barrera-Fritz
+173,Make 173,259,медичне,Medium,Hughes-Manning
+174,Four 174,425,від нещасного випадку,Low,Gonzales Ltd
+175,Born 175,309,медичне,Low,"Bell, Wilson and Duncan"
+176,Benefit 176,1628,майнове,Medium,"Larsen, Bennett and White"
+177,Could 177,4817,подорожі,Low,"Spencer, Haynes and Jacobs"
+178,Oil 178,4352,медичне,Low,Jones and Sons
+179,Drive 179,311,подорожі,Low,"Duffy, Patterson and Hunt"
+180,Leave 180,2379,подорожі,Medium,Lozano-Davis
+181,Series 181,2086,майнове,High,Martin-Trevino
+182,Fill 182,1627,майнове,Medium,Ortiz-Jackson
+183,Control 183,1324,життя,Low,Clark Ltd
+184,Concern 184,3198,медичне,High,Brooks PLC
+185,Space 185,2092,від нещасного випадку,Low,Gonzalez Ltd
+186,Degree 186,2822,медичне,Medium,Porter-Horton
+187,Let 187,2157,медичне,Medium,Hayes-Mccullough
+188,Field 188,2527,від нещасного випадку,Medium,Ingram and Sons
+189,Camera 189,535,подорожі,Low,Riley-Gill
+190,Participant 190,249,майнове,Medium,Ayala PLC
+191,Close 191,3650,від нещасного випадку,Low,Lopez-Turner
+192,Voice 192,2946,від нещасного випадку,Low,Rogers and Sons
+193,Already 193,579,подорожі,Low,"Herring, Lynch and Dixon"
+194,Brother 194,4492,медичне,Low,"Key, Walls and Ford"
+195,Laugh 195,4984,медичне,Medium,Brown-Carr
+196,Two 196,2619,подорожі,Low,"Maldonado, Jackson and Howard"
+197,Technology 197,4359,подорожі,High,"Gutierrez, Hunter and Chang"
+198,Control 198,1175,від нещасного випадку,High,"Hobbs, Murphy and Lopez"
+199,Significant 199,3924,життя,Medium,Black and Sons
+200,Executive 200,309,життя,High,Rasmussen LLC
+201,Local 201,1857,медичне,High,Wallace-Jackson
+202,You 202,3817,майнове,Medium,"Smith, Reid and Lang"
+203,Commercial 203,2006,життя,Low,Miles Ltd
+204,Charge 204,4115,від нещасного випадку,High,Wilcox PLC
+205,Wonder 205,3418,медичне,Medium,"Rodriguez, Lopez and Hernandez"
+206,Organization 206,4327,подорожі,Medium,"Brown, Phillips and Barajas"
+207,Production 207,1933,від нещасного випадку,Low,Page and Sons
+208,Foot 208,3357,майнове,Low,Perez-Roberts
+209,Including 209,2506,майнове,High,Cruz-Arnold
+210,Whole 210,4019,медичне,Medium,"Taylor, Jensen and Hayden"
+211,Clear 211,477,подорожі,High,Ramirez LLC
+212,Law 212,4727,від нещасного випадку,High,Escobar-Ward
+213,Try 213,3654,майнове,Medium,Solis-Merritt
+214,Owner 214,429,подорожі,Low,Weaver-Cervantes
+215,Join 215,4157,життя,High,Mitchell-Johnson
+216,Must 216,368,життя,Low,Parks Ltd
+217,Director 217,3240,від нещасного випадку,Low,"Reed, Swanson and Bowen"
+218,Firm 218,4507,медичне,Medium,"Richardson, Taylor and Smith"
+219,Market 219,4864,подорожі,Medium,Green PLC
+220,Head 220,2280,медичне,Low,"Johnson, Hill and Wise"
+221,Bill 221,3098,від нещасного випадку,High,Lee-Krueger
+222,Financial 222,3027,медичне,Medium,"Graves, Lindsey and Erickson"
+223,Produce 223,1816,від нещасного випадку,Medium,Price and Sons
+224,Film 224,421,медичне,Low,Rasmussen Ltd
+225,Person 225,4709,подорожі,High,"Miller, Herring and Turner"
+226,Southern 226,196,медичне,High,Bell Inc
+227,Pay 227,4162,майнове,Medium,Ortiz-Mendoza
+228,Less 228,2835,життя,Low,"Frank, Chambers and Li"
+229,East 229,1302,від нещасного випадку,Low,Bell and Sons
+230,Image 230,2568,життя,Low,Hughes Inc
+231,Film 231,4289,майнове,High,Clark-Martinez
+232,Present 232,4339,майнове,Medium,"George, Brandt and Mcgee"
+233,Per 233,313,медичне,Low,Anderson-Warner
+234,Standard 234,3206,подорожі,Low,Chavez-Hester
+235,Appear 235,1705,майнове,Low,Wagner-Pugh
+236,Yeah 236,4041,від нещасного випадку,High,Reed LLC
+237,Her 237,2273,медичне,High,Wright-Ross
+238,Indicate 238,2565,медичне,Medium,"Ho, Gilbert and Smith"
+239,Player 239,4208,подорожі,High,Phillips and Sons
+240,Scientist 240,4896,майнове,Low,Sampson and Sons
+241,Deep 241,4014,від нещасного випадку,Low,Gonzales-Preston
+242,Suddenly 242,3264,подорожі,Low,Brown-Chung
+243,Expert 243,861,майнове,Medium,"Mcdonald, Williams and Wood"
+244,Prepare 244,1835,від нещасного випадку,Medium,Dalton-Mills
+245,Quite 245,160,майнове,Medium,Walker-Thompson
+246,Group 246,868,майнове,Low,Payne-Murray
+247,Daughter 247,4977,майнове,Low,Kelley-Ellis
+248,Piece 248,3990,життя,High,Brooks PLC
+249,Support 249,3156,майнове,High,Castro-Saunders
+250,What 250,3475,подорожі,Medium,"Choi, Underwood and Sandoval"
+251,Pick 251,3571,майнове,Medium,"Olson, Hale and Webb"
+252,Save 252,879,життя,Medium,"Bullock, Chan and Shannon"
+253,Difficult 253,1087,від нещасного випадку,Low,Williams PLC
+254,Whom 254,1795,медичне,Medium,Hicks PLC
+255,Reach 255,4321,життя,High,"Mcdaniel, Chen and Johnson"
+256,However 256,1324,майнове,Low,Campbell-Wells
+257,Page 257,2972,від нещасного випадку,High,Zamora and Sons
+258,Personal 258,4302,подорожі,High,Morales-Travis
+259,Send 259,1765,медичне,High,Burton-Edwards
+260,Radio 260,2541,подорожі,Medium,"Sanchez, Brown and Stewart"
+261,Population 261,569,медичне,High,Mcintyre-Swanson
+262,Evidence 262,4864,подорожі,Low,Faulkner Group
+263,Tax 263,4527,від нещасного випадку,Low,Mercer-Jackson
+264,Outside 264,2178,медичне,High,Skinner and Sons
+265,American 265,946,медичне,Low,"Howard, Glass and Walton"
+266,Time 266,2954,майнове,Low,"Perkins, Smith and Peterson"
+267,Room 267,2124,медичне,Medium,Davis Ltd
+268,Start 268,251,від нещасного випадку,Low,Santiago-Morales
+269,Mr 269,4175,подорожі,Medium,"Glover, Page and Davis"
+270,Money 270,1698,від нещасного випадку,High,Jefferson-Bowman
+271,Just 271,1059,майнове,Medium,Cox-Anderson
+272,Put 272,2247,життя,Low,Castillo Ltd
+273,Behavior 273,4412,життя,Medium,"Simpson, Jimenez and Garcia"
+274,Whole 274,223,від нещасного випадку,High,Collins Group
+275,Scene 275,2426,життя,High,Horne PLC
+276,Threat 276,2603,майнове,High,Thompson Inc
+277,Have 277,4265,подорожі,Medium,Hernandez-Evans
+278,Thank 278,1344,життя,High,"Waters, Brown and Davidson"
+279,Serve 279,4444,життя,High,Bates-Martinez
+280,Because 280,2097,медичне,Low,Meadows-Bray
+281,Happy 281,3353,подорожі,Low,Hanson Ltd
+282,Radio 282,263,подорожі,Low,"Washington, Rivers and Rice"
+283,Blood 283,3139,від нещасного випадку,High,"Valdez, Martinez and Oneill"
+284,Miss 284,1393,майнове,Medium,"Thomas, Johnson and Collins"
+285,Student 285,729,від нещасного випадку,Medium,Powell and Sons
+286,Medical 286,2338,подорожі,Medium,"Brown, Gillespie and Wheeler"
+287,Recognize 287,2412,майнове,Medium,Hernandez-Clark
+288,Instead 288,4002,медичне,High,Shaw-Baldwin
+289,Or 289,1655,від нещасного випадку,Medium,"Ware, Ramirez and Johnson"
+290,Media 290,2056,подорожі,Low,Miller-Woods
+291,Spend 291,1784,майнове,Medium,Casey-Patel
+292,His 292,2295,майнове,High,"Nguyen, Thomas and Flores"
+293,Need 293,4949,життя,Low,Sullivan Group
+294,Property 294,724,майнове,High,Baker and Sons
+295,Small 295,524,медичне,Medium,Ross Ltd
+296,Region 296,3399,майнове,Medium,Davis Group
+297,Wait 297,2205,майнове,Medium,Riley Ltd
+298,Tough 298,4160,подорожі,Medium,Mitchell-Fitzgerald
+299,Save 299,3233,від нещасного випадку,Low,"Hensley, Wolf and Scott"
+300,Though 300,530,життя,Medium,Molina Group
+301,They 301,150,медичне,Medium,Johnson-Zimmerman
+302,It 302,1229,медичне,Medium,Morgan-Lewis
+303,Challenge 303,920,майнове,High,Finley-Brown
+304,Range 304,2767,від нещасного випадку,Medium,Davis-Richards
+305,Again 305,4107,майнове,Low,"Shaw, Reed and Wright"
+306,Similar 306,3972,життя,Low,Hines-Freeman
+307,Write 307,3635,від нещасного випадку,Low,"Terry, Berry and Reynolds"
+308,Democrat 308,4143,подорожі,Medium,"Dean, Miller and Woods"
+309,Standard 309,252,подорожі,Medium,"Adams, Perez and Wright"
+310,Well 310,4044,життя,Medium,Miller Inc
+311,Side 311,173,від нещасного випадку,Low,Greer LLC
+312,Lot 312,1580,від нещасного випадку,Medium,Oneal-Best
+313,Recognize 313,1073,медичне,Low,Moore Ltd
+314,Cost 314,3336,від нещасного випадку,Low,"King, Sullivan and Hernandez"
+315,Involve 315,1831,майнове,High,Moreno Group
+316,Project 316,997,медичне,High,Lloyd Ltd
+317,Record 317,3285,медичне,High,Brown-Ray
+318,Put 318,4853,подорожі,Medium,Swanson LLC
+319,Yet 319,2777,життя,Medium,Hunt-Roberts
+320,Address 320,3343,майнове,High,Moses-Robertson
+321,Report 321,972,майнове,Low,Martin-Moore
+322,Name 322,593,медичне,Medium,Mack PLC
+323,Service 323,3766,життя,High,"Jackson, Fisher and Harris"
+324,Kid 324,1913,життя,High,Jones-Torres
+325,Light 325,2111,медичне,Low,"Carey, Nguyen and Campbell"
+326,Something 326,2926,від нещасного випадку,High,Bowman-Obrien
+327,Star 327,2155,життя,Low,"Meyers, Gonzalez and Taylor"
+328,Land 328,1430,життя,Low,"Hamilton, Nichols and Pruitt"
+329,Keep 329,3823,життя,High,Miller-Wolfe
+330,Thought 330,2267,подорожі,Medium,Porter-Hall
+331,Cause 331,3283,подорожі,Low,Huerta-Sexton
+332,Probably 332,2412,від нещасного випадку,High,"Mack, Ramsey and Barnes"
+333,Goal 333,3665,майнове,High,"Pierce, Taylor and Buchanan"
+334,Human 334,2534,життя,High,Mckinney-Gregory
+335,Analysis 335,2747,життя,Medium,Walker-Barron
+336,Popular 336,1806,життя,Low,Buchanan-Jackson
+337,Anyone 337,2018,медичне,Low,Ramirez PLC
+338,Laugh 338,4698,від нещасного випадку,Medium,Anderson-Davenport
+339,Enter 339,4076,медичне,Medium,"Pena, Richardson and Gill"
+340,Social 340,3957,подорожі,High,"Peterson, Riggs and Ramos"
+341,Option 341,3257,подорожі,High,"Adkins, Mckee and Montoya"
+342,Rate 342,776,від нещасного випадку,Medium,"Drake, Jenkins and Hernandez"
+343,Drug 343,2489,подорожі,Low,"Crawford, Rose and Rogers"
+344,Summer 344,884,від нещасного випадку,Low,Anderson LLC
+345,Out 345,4988,від нещасного випадку,Medium,Cole-Stephens
+346,However 346,2931,життя,Low,Anderson-Parker
+347,Hotel 347,1555,від нещасного випадку,Low,Key-Todd
+348,Score 348,1659,майнове,High,"Gilmore, Sanders and Austin"
+349,Approach 349,4100,життя,High,Delgado-Green
+350,Score 350,430,подорожі,Medium,"Thompson, Wilcox and Miles"
+351,Mind 351,4012,подорожі,Medium,Mann Inc
+352,Art 352,1545,подорожі,Low,"Jones, Schultz and Cameron"
+353,Garden 353,3200,подорожі,Low,"May, Smith and Patton"
+354,Every 354,3711,подорожі,High,Lozano Group
+355,Allow 355,2954,подорожі,Low,Fletcher-Burns
+356,Task 356,984,медичне,Medium,Mendez PLC
+357,Boy 357,4956,медичне,Low,Brewer Ltd
+358,Firm 358,1392,медичне,Medium,Brown Ltd
+359,Ball 359,4632,майнове,Medium,Powers Group
+360,Color 360,1081,від нещасного випадку,Low,Boyd LLC
+361,Add 361,1576,подорожі,Low,White LLC
+362,Those 362,4119,від нещасного випадку,High,Edwards Group
+363,Close 363,4982,медичне,Medium,Garcia PLC
+364,Region 364,2376,медичне,Low,Hanna Inc
+365,Into 365,3631,майнове,High,Morris-Smith
+366,Too 366,4861,життя,High,Woods LLC
+367,Table 367,2616,від нещасного випадку,Low,Baird-Brown
+368,Newspaper 368,154,від нещасного випадку,Medium,"Carlson, Burns and Rivas"
+369,Imagine 369,4683,майнове,Medium,Edwards-Patel
+370,Eight 370,3943,подорожі,High,Howard-Dawson
+371,Well 371,3372,медичне,Low,Skinner Ltd
+372,On 372,560,майнове,High,White Group
+373,Protect 373,227,медичне,High,"Reid, Lee and Wheeler"
+374,Rather 374,1500,подорожі,Medium,Lynn-Green
+375,Forget 375,3520,медичне,Low,Adams-Sweeney
+376,Least 376,2245,від нещасного випадку,High,Sparks-Boyd
+377,Wall 377,953,медичне,High,Reeves-Wright
+378,Involve 378,119,від нещасного випадку,High,Cline-Thomas
+379,Beautiful 379,1075,подорожі,Low,Stephenson-Watts
+380,Artist 380,2168,від нещасного випадку,Low,James Inc
+381,Charge 381,1620,подорожі,Medium,Jones-Martinez
+382,Huge 382,4128,медичне,Medium,Knox-Little
+383,Run 383,4856,подорожі,Medium,"Elliott, Elliott and Morrison"
+384,Seek 384,1748,життя,Medium,James PLC
+385,Indeed 385,1120,від нещасного випадку,Medium,Blankenship Group
+386,Strong 386,144,подорожі,Medium,Jackson-Shaffer
+387,Different 387,4407,подорожі,Low,Moreno Inc
+388,Enough 388,4115,медичне,Medium,"Hoover, Reed and Hartman"
+389,Wear 389,2133,медичне,Low,Abbott Inc
+390,Which 390,4085,подорожі,Medium,"Parks, Blake and Nelson"
+391,Financial 391,3072,подорожі,Low,Tran-Haley
+392,Audience 392,234,від нещасного випадку,Low,Thomas-Bowen
+393,Yourself 393,3874,медичне,Medium,Evans-Cameron
+394,Lawyer 394,2670,медичне,Medium,Howell-Reynolds
+395,Perform 395,1703,життя,Low,Bowen PLC
+396,Yourself 396,2850,від нещасного випадку,Low,Ortiz PLC
+397,Interesting 397,3185,майнове,Medium,Clark Inc
+398,Success 398,2125,майнове,Low,Blevins-Decker
+399,Option 399,3290,життя,Medium,Smith-Clayton
+400,Least 400,1408,медичне,Medium,"Rice, Wagner and Flores"
+401,Forward 401,3725,медичне,High,Adams Group
+402,Expect 402,1148,подорожі,Medium,Stone PLC
+403,Hair 403,4883,медичне,High,"Tucker, Park and Patterson"
+404,Campaign 404,815,майнове,Low,Bowers-Wallace
+405,Bed 405,2136,медичне,Low,"Torres, Burns and West"
+406,Left 406,2282,подорожі,Low,Norris Ltd
+407,Art 407,2912,подорожі,High,Carroll-Combs
+408,Right 408,3805,майнове,Low,"Fischer, Owens and Payne"
+409,Key 409,4554,життя,High,Moses and Sons
+410,Check 410,1796,життя,Low,"Kelly, Hunt and May"
+411,Center 411,2973,медичне,Low,Joyce-Morgan
+412,Standard 412,4272,подорожі,Low,Hart-Summers
+413,The 413,3262,від нещасного випадку,Medium,Johnson LLC
+414,Feeling 414,2679,подорожі,High,Mclean-James
+415,Property 415,2052,від нещасного випадку,Medium,"Richardson, Chang and Simmons"
+416,Much 416,3970,майнове,Medium,"Lowe, Williams and Peterson"
+417,Win 417,4697,подорожі,Low,Rhodes LLC
+418,Including 418,3416,майнове,Medium,Miller-Orr
+419,Fine 419,4467,медичне,High,Barber Group
+420,Next 420,1256,подорожі,Medium,Davis-Suarez
+421,Local 421,2961,медичне,Low,Woodward-Jones
+422,Stuff 422,2155,медичне,Medium,"Horn, Blake and Collins"
+423,Decision 423,1053,майнове,Medium,"Olson, Mason and Nunez"
+424,Hour 424,4808,життя,High,"Harris, Black and Gray"
+425,Teach 425,3679,майнове,Medium,"Booker, Davis and Warren"
+426,Color 426,3385,від нещасного випадку,High,Fisher-Acosta
+427,Community 427,218,від нещасного випадку,Medium,Nixon-Hudson
+428,Resource 428,897,медичне,Medium,Bates-Garcia
+429,Need 429,2633,медичне,High,Mccarthy-Marshall
+430,Talk 430,445,життя,High,Taylor and Sons
+431,Book 431,3183,медичне,High,Drake PLC
+432,Already 432,1419,подорожі,High,Sullivan-Henson
+433,However 433,2737,подорожі,Medium,Martin Group
+434,Some 434,4585,життя,Low,"Johnson, Sampson and Jones"
+435,System 435,184,життя,Low,Taylor LLC
+436,Item 436,3538,від нещасного випадку,Low,"Burton, Contreras and Burns"
+437,Hot 437,3783,від нещасного випадку,High,Foster LLC
+438,Mrs 438,2036,подорожі,Medium,Maldonado-Hopkins
+439,Assume 439,2702,майнове,High,Hunt LLC
+440,Democrat 440,1699,медичне,Medium,Gray Group
+441,Sound 441,119,медичне,High,Jones Group
+442,Idea 442,3430,медичне,High,"Smith, Stewart and Quinn"
+443,Card 443,3094,життя,High,"Morales, Osborne and Burgess"
+444,Which 444,2285,подорожі,Low,Brandt-Gomez
+445,Response 445,3760,медичне,Low,Barton PLC
+446,Newspaper 446,4944,майнове,High,Russell Inc
+447,Focus 447,1409,подорожі,Low,Ryan-Murphy
+448,Suffer 448,2686,життя,High,Bates-Thompson
+449,Eat 449,4629,медичне,Medium,"Mueller, Baker and Lopez"
+450,Court 450,2083,подорожі,Medium,"Cunningham, Ross and Brown"
+451,Actually 451,4845,медичне,Low,"Golden, Rubio and Gardner"
+452,Begin 452,3740,від нещасного випадку,High,Mcfarland Inc
+453,Marriage 453,3625,майнове,Medium,"White, Stephens and Morgan"
+454,Compare 454,4339,майнове,High,"Evans, Long and Wong"
+455,Person 455,4584,життя,High,"Ray, Nash and Lang"
+456,Quite 456,4536,подорожі,High,Goodman Inc
+457,Everybody 457,3641,подорожі,Medium,Mitchell-Martin
+458,Social 458,252,життя,High,Garrison-Weber
+459,Long 459,1273,медичне,Medium,"Charles, Keller and Olsen"
+460,Join 460,4279,медичне,Medium,Martinez LLC
+461,Catch 461,3099,життя,Low,Smith-Weber
+462,Thing 462,3551,життя,High,"Henry, May and Reed"
+463,Rest 463,4826,майнове,Low,Watson and Sons
+464,Teacher 464,241,від нещасного випадку,Medium,Hartman-Mercado
+465,Else 465,1550,життя,Low,Lopez-Martin
+466,In 466,1646,життя,Medium,"Wong, House and Thompson"
+467,Join 467,2571,медичне,Medium,"George, Davis and Ray"
+468,Board 468,232,медичне,Low,"Le, Brooks and Armstrong"
+469,Sense 469,4559,медичне,Medium,Thompson LLC
+470,Too 470,4338,подорожі,Low,Lang-Houston
+471,Eat 471,4523,подорожі,Low,Pineda Group
+472,Similar 472,2814,життя,Low,"Navarro, Tapia and Ponce"
+473,Defense 473,2703,медичне,High,"Davidson, Wilson and Reed"
+474,Commercial 474,3882,життя,Low,Perez-Lawrence
+475,Where 475,1683,медичне,High,"Gibson, Rowland and Gallagher"
+476,Sure 476,3213,подорожі,Low,Wright-Aguilar
+477,Face 477,4655,життя,Low,"Johnson, Boone and Patel"
+478,Mind 478,3345,медичне,High,Moore PLC
+479,Shoulder 479,1385,життя,Medium,Wilson-Greer
+480,Thank 480,2739,майнове,High,Willis Inc
+481,Hour 481,413,життя,Low,Bishop-Sims
+482,Where 482,2408,медичне,Low,Lewis Inc
+483,Yard 483,4054,майнове,High,"Jones, Wallace and Ramirez"
+484,Cost 484,4729,медичне,Low,Adams-Anderson
+485,Five 485,3879,подорожі,Low,"Serrano, Baker and Weiss"
+486,Miss 486,1710,життя,Medium,Vaughn LLC
+487,Pay 487,4961,майнове,Medium,Jensen Group
+488,Painting 488,297,подорожі,High,Flores Ltd
+489,Just 489,4190,від нещасного випадку,Medium,"Clay, Hicks and Avila"
+490,Group 490,1833,майнове,High,"Anderson, Vargas and Gutierrez"
+491,Quite 491,2917,майнове,Low,Rodriguez Ltd
+492,Action 492,3144,майнове,Low,Gray LLC
+493,Push 493,4082,від нещасного випадку,Medium,"Jacobs, Wise and Morse"
+494,Election 494,2286,медичне,Low,Diaz-Hawkins
+495,Natural 495,2089,життя,Medium,Lamb Ltd
+496,Between 496,2724,життя,High,Moran-Richardson
+497,Have 497,3146,від нещасного випадку,Medium,Hodge-Montgomery
+498,Anyone 498,1930,життя,Low,Russell and Sons
+499,Leader 499,1778,від нещасного випадку,Medium,"Mckinney, Williams and White"
+500,Decision 500,971,від нещасного випадку,High,Clarke and Sons
+501,Across 501,2436,життя,High,"Kelley, Smith and Coffey"
+502,Up 502,4637,медичне,Medium,Anderson LLC
+503,On 503,3313,медичне,Low,"Bowers, Patrick and Jones"
+504,Catch 504,4456,майнове,Low,"Miller, Wilson and Pineda"
+505,Well 505,1738,від нещасного випадку,Medium,Myers-Young
+506,Eight 506,2320,медичне,Low,Price LLC
+507,Argue 507,4548,майнове,Low,Steele LLC
+508,Analysis 508,4346,від нещасного випадку,High,Page-Mccormick
+509,Attack 509,908,від нещасного випадку,Low,Baldwin Inc
+510,Song 510,4445,майнове,Medium,Taylor Ltd
+511,Indeed 511,2033,життя,High,"Hughes, Perez and Adams"
+512,Light 512,4534,від нещасного випадку,Low,Williams Inc
+513,They 513,4072,життя,Low,"Gentry, Jackson and Scott"
+514,Wonder 514,2979,життя,High,Phillips-Garrett
+515,Still 515,3361,подорожі,Low,Frank-Henry
+516,Fact 516,3311,медичне,Medium,Chandler Group
+517,Gun 517,3513,медичне,Medium,"Prince, Reyes and Mills"
+518,Reason 518,1936,медичне,High,Curtis LLC
+519,Strong 519,1186,подорожі,High,Harris-Moreno
+520,Kitchen 520,2068,майнове,High,Martinez Inc
+521,Region 521,4677,від нещасного випадку,Low,Reeves and Sons
+522,Tough 522,544,майнове,Low,Hansen LLC
+523,Significant 523,2141,від нещасного випадку,Medium,Gonzales-Gonzalez
+524,Form 524,4282,життя,High,Vaughn-Cameron
+525,Sea 525,2600,майнове,Low,Moran Ltd
+526,Decade 526,2501,медичне,Medium,"Martinez, Kirby and Miller"
+527,Reach 527,155,від нещасного випадку,High,"Harrison, Henry and Boyer"
+528,See 528,1630,медичне,Low,"Garcia, Shelton and Perez"
+529,Family 529,4557,майнове,High,Bird and Sons
+530,Stand 530,3969,подорожі,High,"Lopez, Cox and Sutton"
+531,Little 531,1353,подорожі,Low,"Lucas, Myers and Braun"
+532,Most 532,2531,медичне,Medium,Becker-Kelly
+533,Success 533,2197,від нещасного випадку,Low,Nguyen and Sons
+534,Pass 534,4509,від нещасного випадку,Low,Mcdonald Group
+535,Personal 535,2681,майнове,Medium,Bowers PLC
+536,Pick 536,2841,медичне,Low,Hines LLC
+537,Manager 537,715,майнове,High,Parsons-Mullen
+538,Time 538,1996,від нещасного випадку,Low,"Mercado, Aguilar and Stone"
+539,Good 539,2966,життя,Low,Ferguson-Oconnell
+540,Always 540,953,медичне,Medium,Taylor Group
+541,College 541,3881,подорожі,High,Cunningham LLC
+542,Break 542,2252,від нещасного випадку,Low,Becker-Lee
+543,Price 543,1122,від нещасного випадку,Medium,Fritz PLC
+544,Top 544,3050,подорожі,High,"Garcia, Parsons and Smith"
+545,Require 545,3602,подорожі,Low,"Allen, Clark and Nguyen"
+546,Or 546,4341,від нещасного випадку,Medium,"Chambers, Moore and Pena"
+547,Site 547,4394,медичне,Low,"Bowers, Thomas and Montgomery"
+548,Whole 548,1224,медичне,Medium,Smith-Curtis
+549,Arrive 549,3818,від нещасного випадку,High,"Bowen, Robinson and Gomez"
+550,Month 550,1833,подорожі,Medium,Davis-Garrett
+551,Million 551,4874,життя,Medium,Green-Collins
+552,Most 552,173,медичне,High,"White, Diaz and Freeman"
+553,Attorney 553,3316,життя,Low,Smith Group
+554,National 554,4586,від нещасного випадку,High,Mcgee LLC
+555,Commercial 555,1997,життя,High,Sherman-Estrada
+556,Guess 556,3851,майнове,High,Arnold Inc
+557,Certainly 557,4377,майнове,Low,Stanley Ltd
+558,Already 558,3565,майнове,Low,Hughes-White
+559,Get 559,591,майнове,Medium,Phillips-Anderson
+560,Property 560,4684,майнове,High,Smith-Fox
+561,Finally 561,3919,майнове,Low,Erickson-Flores
+562,Without 562,3774,від нещасного випадку,High,Griffin-Lutz
+563,Investment 563,2571,майнове,Medium,Brown-Stephenson
+564,Read 564,4402,життя,High,"Reyes, Blankenship and Patel"
+565,Available 565,2657,медичне,High,"Solis, Haynes and Cruz"
+566,Stay 566,2847,майнове,Low,"Mendoza, Kennedy and Stephens"
+567,Process 567,3656,подорожі,Low,Williams-Woodward
+568,Career 568,1106,майнове,High,Edwards Inc
+569,Home 569,2855,майнове,Low,"Valencia, Harrison and Miller"
+570,Into 570,2167,майнове,High,Hale-Bright
+571,Animal 571,4504,подорожі,Medium,Cunningham-Adams
+572,Wear 572,3493,медичне,Medium,Kaiser and Sons
+573,Box 573,2903,медичне,High,"Wheeler, Barajas and Davidson"
+574,Pay 574,3905,подорожі,Medium,"Olson, Brown and Phillips"
+575,Morning 575,4210,життя,High,"Johnston, Dixon and King"
+576,Alone 576,2585,майнове,Low,"Bender, Carlson and West"
+577,Room 577,3676,життя,High,Brown-Rodriguez
+578,Share 578,2964,медичне,Medium,James Group
+579,East 579,4530,життя,High,"Edwards, Wallace and Gregory"
+580,Kitchen 580,4105,подорожі,High,"Phillips, Frank and Hill"
+581,Believe 581,4682,майнове,Low,Hill LLC
+582,Responsibility 582,4122,медичне,Low,Figueroa-Cortez
+583,Still 583,1877,майнове,Low,Hines-Wells
+584,Day 584,4299,медичне,Medium,Barr Ltd
+585,Month 585,1155,подорожі,High,Moore and Sons
+586,Interest 586,2388,життя,High,Coleman-Porter
+587,Natural 587,742,майнове,Low,Reyes-Jones
+588,West 588,2060,життя,High,Rubio Ltd
+589,Across 589,1831,від нещасного випадку,High,Nelson Inc
+590,Poor 590,2639,подорожі,High,Glenn PLC
+591,Must 591,4096,подорожі,High,"Baldwin, Ashley and Turner"
+592,Design 592,3487,від нещасного випадку,Low,Strong-Pham
+593,You 593,4243,від нещасного випадку,Medium,Snyder-Turner
+594,Detail 594,4537,медичне,Medium,Bennett and Sons
+595,If 595,4185,майнове,High,Liu-Branch
+596,Trade 596,2692,медичне,High,Gonzalez LLC
+597,Wind 597,2611,медичне,Low,"Bradley, Roman and Mcmillan"
+598,Report 598,4720,від нещасного випадку,Low,Miller and Sons
+599,Measure 599,2752,життя,High,Williams Group
+600,Surface 600,670,медичне,Low,"Anderson, Francis and Perry"
+601,First 601,872,життя,High,Owens and Sons
+602,To 602,3595,життя,Low,Velez-Crawford
+603,Conference 603,1137,медичне,High,Jones-Lewis
+604,Save 604,3699,медичне,Low,Garcia-Blair
+605,Very 605,4171,подорожі,High,Bradshaw-Berry
+606,Too 606,2383,від нещасного випадку,High,"Palmer, Johnson and Mcknight"
+607,Need 607,1096,життя,Medium,Sellers-Hughes
+608,Fall 608,4852,від нещасного випадку,Low,Lyons-Dixon
+609,Cold 609,2254,майнове,High,Carrillo-Brooks
+610,Suggest 610,773,від нещасного випадку,High,Zhang-Martin
+611,Occur 611,4903,від нещасного випадку,High,King-Kelley
+612,Marriage 612,182,життя,High,"Walker, Terry and Valenzuela"
+613,Analysis 613,1002,життя,Medium,"Butler, Miller and Murphy"
+614,War 614,4325,подорожі,High,Guzman and Sons
+615,Image 615,2781,життя,Low,Williams-Carlson
+616,Because 616,1627,майнове,High,"Garrett, Howard and Reed"
+617,Item 617,2249,майнове,High,"Wood, Johnson and Willis"
+618,Movie 618,1178,майнове,High,Wilson Ltd
+619,Heart 619,1406,від нещасного випадку,Medium,Aguilar Group
+620,Car 620,3300,медичне,High,Davila Ltd
+621,Member 621,2823,подорожі,Low,Rowland PLC
+622,Agree 622,984,від нещасного випадку,Medium,"Farmer, King and Ford"
+623,Difference 623,637,подорожі,Low,"Patton, Rodriguez and Mcintyre"
+624,Still 624,3502,від нещасного випадку,Medium,Leblanc-Stephenson
+625,Ago 625,4734,майнове,Medium,"Wright, Moran and Torres"
+626,Relationship 626,1832,від нещасного випадку,Low,Hampton Ltd
+627,Situation 627,3960,майнове,High,Schultz Inc
+628,Often 628,4244,медичне,Medium,Burke PLC
+629,Although 629,4453,життя,Low,Blake Ltd
+630,Window 630,4745,життя,Low,Morrow-Weaver
+631,Word 631,3614,життя,Low,"Hall, Gray and Contreras"
+632,Brother 632,2862,майнове,Low,Gonzalez and Sons
+633,Medical 633,2140,медичне,Medium,"Morgan, Nelson and Roy"
+634,Rise 634,3002,від нещасного випадку,High,"Alvarado, Mitchell and Sullivan"
+635,South 635,3179,подорожі,Low,Elliott PLC
+636,American 636,4014,майнове,Low,"Brooks, Marshall and Moyer"
+637,Reduce 637,4724,медичне,High,"Hall, Harper and Reed"
+638,Ask 638,120,від нещасного випадку,Medium,Thornton LLC
+639,Interview 639,1747,майнове,Medium,"Frazier, Mosley and Hopkins"
+640,Act 640,1191,від нещасного випадку,Medium,Collins-Brown
+641,Scientist 641,1754,майнове,High,Gonzales-Jackson
+642,West 642,3023,медичне,High,Johnson Group
+643,Him 643,133,життя,Medium,Wright-Jones
+644,Everything 644,709,медичне,Low,Sims-Jones
+645,Attention 645,2084,від нещасного випадку,High,"Ray, Calhoun and Levine"
+646,Join 646,2243,подорожі,Low,"Kelley, Lee and Lee"
+647,Natural 647,2374,медичне,Low,Brown-Holmes
+648,Choice 648,2369,подорожі,Medium,"Mendoza, Ponce and Miller"
+649,Picture 649,4808,життя,Medium,Wood-Holland
+650,Heavy 650,4491,життя,Medium,Rivera PLC
+651,Gas 651,703,життя,Low,"Chaney, Hamilton and Reed"
+652,Bit 652,1532,життя,Low,Garza Inc
+653,Bag 653,2088,життя,Medium,Booth-Berg
+654,New 654,4779,від нещасного випадку,Medium,"Whitaker, Bates and Smith"
+655,Modern 655,1144,життя,Low,"Charles, Hardin and Bryant"
+656,Low 656,2272,майнове,Medium,"Martinez, Clark and Phillips"
+657,Today 657,757,майнове,Low,Carney Inc
+658,Result 658,1665,життя,High,Yang-Cobb
+659,Degree 659,4157,медичне,Low,Miller-Fleming
+660,Material 660,1585,медичне,Low,Reese and Sons
+661,Physical 661,3222,майнове,High,Powell PLC
+662,Herself 662,1622,подорожі,High,Phillips-Monroe
+663,College 663,1755,життя,High,Warren LLC
+664,Particularly 664,4519,від нещасного випадку,High,"Clarke, Wilson and Clark"
+665,Between 665,1539,майнове,High,"Allen, Ellis and Vega"
+666,Edge 666,264,життя,High,"Cox, Garcia and Pham"
+667,Amount 667,4426,подорожі,Medium,Barrett-Chavez
+668,Former 668,519,медичне,Low,Smith Group
+669,And 669,4080,подорожі,High,Kelly-Carter
+670,Should 670,3129,медичне,Medium,"Dunn, Shea and Rodriguez"
+671,Although 671,4376,від нещасного випадку,High,Forbes PLC
+672,Else 672,884,подорожі,High,"Walsh, Mata and Miller"
+673,Receive 673,1113,життя,High,"Taylor, Huang and Baker"
+674,Fear 674,2361,майнове,Low,Shaffer PLC
+675,Item 675,1413,від нещасного випадку,Low,"Barnes, Rivas and Nelson"
+676,Position 676,4093,від нещасного випадку,High,"Collins, Morales and Brown"
+677,Arm 677,4103,життя,High,"Ramirez, Hunt and Kelly"
+678,Top 678,2437,медичне,Low,Lopez-Brown
+679,Notice 679,483,медичне,High,Nguyen-Robbins
+680,Enter 680,500,подорожі,Low,"Meadows, Jordan and Williams"
+681,Sometimes 681,4544,від нещасного випадку,Low,Greer-Taylor
+682,Too 682,743,подорожі,High,Obrien Ltd
+683,Such 683,717,подорожі,Medium,Obrien PLC
+684,Serious 684,3807,медичне,High,Butler-Jennings
+685,Form 685,3320,майнове,Medium,"Reed, Guzman and Santiago"
+686,Tv 686,4138,життя,Low,"Acosta, Marshall and Taylor"
+687,Other 687,1219,від нещасного випадку,Low,"Wilson, Goodwin and Davenport"
+688,Finally 688,103,медичне,High,Miller-Mccann
+689,Happen 689,4874,від нещасного випадку,Medium,Brown-Bailey
+690,Son 690,1574,від нещасного випадку,Low,Richardson and Sons
+691,Knowledge 691,2842,від нещасного випадку,Medium,Tran-Williams
+692,Season 692,2280,подорожі,High,Bryant Ltd
+693,Act 693,2236,майнове,Low,Ross-Peterson
+694,Majority 694,475,подорожі,Low,"Lee, Hunter and Johnson"
+695,Job 695,3914,життя,Low,"Jacobs, Roberts and Walton"
+696,Old 696,4003,медичне,Low,Jacobs-Smith
+697,Someone 697,611,майнове,High,Martin Group
+698,Indeed 698,3697,майнове,Medium,Burton-Howard
+699,Large 699,1532,медичне,High,"Cooper, Buchanan and King"
+700,Watch 700,4629,життя,Medium,Davis and Sons
+701,Hard 701,3727,життя,Low,Miller PLC
+702,Election 702,1738,подорожі,Low,Bauer-Washington
+703,Much 703,1783,майнове,Low,Young-George
+704,Organization 704,818,подорожі,Medium,"Bradford, Williams and Harmon"
+705,Skill 705,4606,медичне,Low,Hale-Moss
+706,Word 706,2186,медичне,High,Anthony-Greer
+707,Attack 707,2993,від нещасного випадку,Low,Diaz-Contreras
+708,Effect 708,2201,життя,High,"Walker, Miller and Ellis"
+709,Wife 709,4341,від нещасного випадку,Low,Zhang PLC
+710,Argue 710,3676,подорожі,High,Nolan Ltd
+711,Front 711,4367,подорожі,Medium,Bush and Sons
+712,Scene 712,2932,життя,Low,Williams LLC
+713,Even 713,4974,медичне,High,Sherman and Sons
+714,Seek 714,1430,життя,High,"Martinez, Mclaughlin and Ball"
+715,Peace 715,2563,майнове,Low,"Hill, Stafford and Jones"
+716,Like 716,3316,від нещасного випадку,Low,Salazar Inc
+717,Candidate 717,2117,медичне,High,Miller Group
+718,Stage 718,2497,від нещасного випадку,High,Clark-Malone
+719,Its 719,258,від нещасного випадку,High,Pearson Group
+720,Forget 720,1860,подорожі,Medium,Hunt-Schmidt
+721,Theory 721,2098,подорожі,High,Davis-Wong
+722,Story 722,3310,медичне,Medium,Gilbert-Morrison
+723,Color 723,2478,подорожі,Low,"Perez, Gallegos and Miller"
+724,Account 724,4355,від нещасного випадку,Medium,"Cole, Washington and Miller"
+725,Lay 725,3673,майнове,Low,Baker-Cooper
+726,Card 726,1789,майнове,Medium,Taylor Inc
+727,Really 727,1592,подорожі,Low,Lewis Ltd
+728,Test 728,3647,від нещасного випадку,Medium,Ball Group
+729,Wait 729,4632,подорожі,High,Molina PLC
+730,Current 730,4527,життя,High,"Frye, Yates and Brown"
+731,Although 731,2389,медичне,Medium,Harris-Smith
+732,Stand 732,1099,медичне,Medium,Henderson-Henry
+733,Test 733,1267,майнове,High,Freeman Inc
+734,Ago 734,1244,життя,Low,Ashley Ltd
+735,Police 735,2884,життя,Low,Lee-Chase
+736,Fact 736,2873,життя,Medium,Molina-Yu
+737,Star 737,672,подорожі,Medium,Khan PLC
+738,Government 738,4844,майнове,High,Orr Inc
+739,East 739,1442,майнове,Low,Greene-Macias
+740,Offer 740,232,від нещасного випадку,High,Diaz-Long
+741,Teach 741,3104,від нещасного випадку,High,Chapman LLC
+742,Most 742,497,майнове,Low,Ramos-Wilson
+743,In 743,3761,майнове,High,Kerr-Carter
+744,Knowledge 744,3131,подорожі,High,Torres Inc
+745,Company 745,4794,від нещасного випадку,High,Barton-Thompson
+746,Any 746,250,від нещасного випадку,High,Smith-Hayes
+747,Training 747,2090,медичне,Medium,Branch Ltd
+748,The 748,4590,від нещасного випадку,Medium,Nichols-Hoffman
+749,Company 749,2729,від нещасного випадку,Low,Walker Ltd
+750,Garden 750,1640,майнове,Low,Lane PLC
+751,Lose 751,3629,медичне,Low,Lynch Inc
+752,Pass 752,3074,життя,Medium,Smith and Sons
+753,Boy 753,4453,медичне,Low,Adams-Crane
+754,Develop 754,467,медичне,Low,Jefferson Inc
+755,Up 755,955,подорожі,High,Edwards-Miller
+756,Music 756,2475,майнове,Low,Webb Inc
+757,The 757,3399,життя,High,"Winters, Flores and Bell"
+758,Start 758,4084,від нещасного випадку,Medium,Wilson-Cooper
+759,Keep 759,3868,від нещасного випадку,Low,Phillips LLC
+760,Executive 760,2746,медичне,High,Morgan-Perez
+761,Bit 761,3215,життя,High,"Yoder, Delacruz and Vasquez"
+762,Example 762,2833,подорожі,Medium,Harris-Smith
+763,Involve 763,796,медичне,Low,"Hughes, Gray and Lane"
+764,Mission 764,3256,життя,Low,Haynes-Glover
+765,Child 765,4875,життя,High,"Howell, Brooks and Ball"
+766,Mr 766,3376,життя,Medium,Schaefer-Robinson
+767,Beautiful 767,354,від нещасного випадку,Medium,Ortiz PLC
+768,Author 768,4993,від нещасного випадку,Medium,Waters-Nguyen
+769,Week 769,2939,життя,Low,"Smith, Blevins and Allen"
+770,Describe 770,3267,подорожі,Low,Smith-Aguilar
+771,Cause 771,391,від нещасного випадку,High,Morgan-Pierce
+772,Even 772,2802,майнове,High,"Wright, Robinson and Coleman"
+773,Hold 773,2192,від нещасного випадку,Medium,Campbell-Lowe
+774,Exist 774,3013,майнове,Medium,Hess Ltd
+775,Process 775,3307,майнове,High,"Miller, Parker and Levine"
+776,Draw 776,1355,життя,Medium,Davis-Anderson
+777,World 777,1012,медичне,High,Burgess LLC
+778,Material 778,4718,майнове,High,"Johnson, Wood and Payne"
+779,Economic 779,1111,медичне,Low,Sanchez LLC
+780,Future 780,4397,подорожі,Low,James Group
+781,Near 781,4545,подорожі,Low,"Roth, Richards and Washington"
+782,Brother 782,4544,подорожі,Medium,"Kirk, Hahn and Chapman"
+783,Likely 783,4008,життя,High,Welch Group
+784,From 784,4703,життя,Low,Sullivan and Sons
+785,Letter 785,3871,медичне,High,"Williams, Cummings and Riggs"
+786,Visit 786,1365,медичне,High,Flores LLC
+787,International 787,1139,від нещасного випадку,High,Phillips-Paul
+788,Catch 788,190,медичне,High,"Barnes, Jones and Fisher"
+789,Night 789,105,подорожі,High,Singleton LLC
+790,Year 790,4134,життя,Medium,Mendez-Kent
+791,Everyone 791,1689,медичне,Low,"Casey, Williams and Guerrero"
+792,Set 792,3626,подорожі,Low,Thomas Inc
+793,Herself 793,1389,життя,High,Miller-Douglas
+794,Property 794,1729,подорожі,High,Fisher-Boyd
+795,Pressure 795,4864,подорожі,Medium,Ward-Smith
+796,Contain 796,1604,від нещасного випадку,High,"Clark, Bennett and Avery"
+797,Program 797,4837,від нещасного випадку,High,"Nixon, Blake and Harrell"
+798,Decide 798,3322,медичне,Low,Garcia Ltd
+799,Light 799,4044,майнове,Medium,"Rodgers, Watson and Knight"
+800,Base 800,879,майнове,High,Reed-Burns
+801,Appear 801,3286,майнове,Medium,Williams-Alexander
+802,Market 802,2534,від нещасного випадку,High,"Lee, Pennington and Hodge"
+803,International 803,1178,від нещасного випадку,Low,Long Group
+804,Most 804,1784,від нещасного випадку,High,Sullivan-Odonnell
+805,Either 805,2831,подорожі,Medium,Hughes-Williams
+806,Community 806,2030,життя,Low,Moore PLC
+807,Fly 807,1097,медичне,Low,Spencer PLC
+808,Coach 808,626,медичне,High,"Anderson, Wolfe and Smith"
+809,Material 809,4807,життя,Low,Davis-Parker
+810,Raise 810,240,медичне,Low,"Hurley, Baird and Chase"
+811,Small 811,1237,подорожі,High,"Rojas, Brooks and Rivera"
+812,Down 812,2122,від нещасного випадку,Low,"Scott, Salinas and Mcclain"
+813,Consumer 813,4893,подорожі,Medium,Park-Anthony
+814,Stuff 814,813,медичне,High,Robles-Webb
+815,Determine 815,4667,від нещасного випадку,Low,Shaw-Cox
+816,Collection 816,272,подорожі,High,Fox Ltd
+817,Large 817,4420,від нещасного випадку,Low,Ellis-Mitchell
+818,Visit 818,584,життя,Medium,Harrison-Torres
+819,Reveal 819,2164,медичне,High,Delgado Ltd
+820,Price 820,911,від нещасного випадку,Medium,Johnson-Jensen
+821,Miss 821,305,медичне,Medium,Stevenson-Alexander
+822,Scientist 822,3927,від нещасного випадку,High,"Cruz, Williams and Butler"
+823,Sense 823,2706,подорожі,Medium,Perez-Moore
+824,Return 824,2135,майнове,Medium,Turner-Christian
+825,Important 825,4227,подорожі,High,Henderson-Williams
+826,Look 826,4710,майнове,High,"Brown, Hubbard and Weber"
+827,Stop 827,1656,медичне,Low,Edwards-Brown
+828,Three 828,4661,життя,Medium,Stevens PLC
+829,Factor 829,1252,медичне,Low,"Morales, Bryant and Castro"
+830,Central 830,3341,медичне,Medium,Davidson Ltd
+831,Effect 831,2968,майнове,High,"Chavez, Woods and Smith"
+832,Writer 832,3355,медичне,Low,Mitchell-English
+833,Identify 833,4983,майнове,Medium,Crawford and Sons
+834,Really 834,2786,подорожі,High,Hanson and Sons
+835,Likely 835,3231,медичне,Medium,Lowe-Huber
+836,Issue 836,126,від нещасного випадку,Low,Strong Group
+837,Nearly 837,3655,від нещасного випадку,High,Mcneil Group
+838,Whole 838,3564,подорожі,Medium,Brown-Harris
+839,First 839,2690,життя,High,"Lewis, Hernandez and Warren"
+840,His 840,1491,від нещасного випадку,Low,"Hooper, Myers and Aguilar"
+841,Population 841,4487,подорожі,Medium,Allen Inc
+842,Campaign 842,3678,від нещасного випадку,Medium,Garrison-Beck
+843,Least 843,815,медичне,High,Sullivan Inc
+844,Name 844,2272,життя,Medium,"Bowen, Schmidt and Lopez"
+845,Any 845,1796,від нещасного випадку,Medium,Pierce Group
+846,Trip 846,1367,від нещасного випадку,Low,Brown-Bryant
+847,Sure 847,1829,подорожі,Medium,Lewis-Collins
+848,Responsibility 848,3355,від нещасного випадку,High,Hernandez and Sons
+849,Wide 849,2405,від нещасного випадку,High,"Turner, Allen and Jones"
+850,Get 850,3348,майнове,Low,"Carpenter, Martinez and Wilson"
+851,Education 851,1112,медичне,Medium,"Leon, Garcia and Carpenter"
+852,Crime 852,533,життя,High,"Guzman, Wilson and Perez"
+853,Part 853,575,від нещасного випадку,Low,King-Brown
+854,Occur 854,949,подорожі,Low,"Lyons, Atkins and Vega"
+855,Reflect 855,2606,подорожі,Medium,Brennan-Padilla
+856,Beyond 856,1355,майнове,Low,Martinez Group
+857,Language 857,3444,майнове,High,"Stevens, Green and West"
+858,Box 858,2003,медичне,High,"Kidd, Miranda and Hughes"
+859,Happy 859,2535,від нещасного випадку,High,Anderson PLC
+860,Ago 860,4835,майнове,Medium,Jones PLC
+861,While 861,4932,від нещасного випадку,Medium,"Rangel, Terry and Davis"
+862,Then 862,3727,подорожі,High,Wright-Dudley
+863,Beyond 863,3418,майнове,Medium,Ochoa Inc
+864,Whether 864,3032,майнове,Medium,Gray-Sandoval
+865,Church 865,4390,майнове,Low,Stevens-Smith
+866,General 866,1041,майнове,Low,Hines LLC
+867,Where 867,4300,подорожі,High,"Dunn, Baker and Weber"
+868,Best 868,2413,медичне,Medium,"Price, Walker and Villanueva"
+869,Something 869,1092,медичне,Medium,"Blair, Edwards and Dennis"
+870,Report 870,4758,медичне,High,Rivera LLC
+871,Everything 871,4865,від нещасного випадку,Low,"Higgins, Harmon and Lawson"
+872,Street 872,4091,життя,Medium,"Stewart, Miller and Smith"
+873,Cold 873,3734,життя,Low,Hunt PLC
+874,Conference 874,4928,від нещасного випадку,High,Owen Ltd
+875,Five 875,2643,медичне,Medium,"Gomez, Edwards and Evans"
+876,President 876,2733,майнове,Low,Cruz-Miranda
+877,Director 877,3546,подорожі,High,Powell-Reed
+878,Involve 878,1167,життя,Low,Berry Inc
+879,Total 879,560,подорожі,High,Dunn-Smith
+880,Growth 880,597,медичне,Medium,"Medina, Henderson and Montgomery"
+881,Admit 881,2370,від нещасного випадку,Low,Calderon LLC
+882,But 882,4178,подорожі,Low,"Wells, Townsend and Trevino"
+883,Old 883,3735,подорожі,High,Maldonado Ltd
+884,Beat 884,3865,майнове,Low,Townsend and Sons
+885,New 885,612,життя,High,"Alvarez, Rodriguez and Brown"
+886,Now 886,3800,подорожі,Low,"Hubbard, Jackson and Clark"
+887,Long 887,4598,медичне,High,"Kelly, Carrillo and Schmidt"
+888,Want 888,1503,медичне,Medium,"Chavez, Rodriguez and Fry"
+889,Meeting 889,487,від нещасного випадку,Low,"Anderson, Gonzales and Baker"
+890,Director 890,1510,від нещасного випадку,Medium,Clark-Oneill
+891,Discuss 891,2802,медичне,High,Burch-Rhodes
+892,Decide 892,1915,від нещасного випадку,Medium,"Sosa, Anderson and Bishop"
+893,Election 893,1818,від нещасного випадку,Medium,Copeland-Keith
+894,Room 894,4458,подорожі,Low,Meadows Group
+895,Accept 895,972,від нещасного випадку,Low,Perez-Jackson
+896,Police 896,1787,подорожі,Medium,Porter-Fischer
+897,Eye 897,850,життя,Medium,Garcia-Dean
+898,Doctor 898,1456,медичне,High,"Jenkins, Franco and Russell"
+899,Suddenly 899,538,життя,High,"Galloway, Gomez and Reed"
+900,Will 900,2309,майнове,High,Weiss-Davis
+901,Stop 901,455,подорожі,Medium,Gray-Holt
+902,Kitchen 902,2493,майнове,Medium,Smith-Doyle
+903,Prove 903,264,життя,Medium,Shields PLC
+904,Return 904,249,від нещасного випадку,Medium,"Reynolds, Brown and Goodman"
+905,News 905,3027,життя,High,"Lawson, Galvan and Caldwell"
+906,Indeed 906,438,життя,Low,Lopez LLC
+907,Pattern 907,4002,майнове,Low,English-Moore
+908,Sister 908,3716,життя,Low,Allen-Ferguson
+909,Identify 909,4562,майнове,High,Harris Inc
+910,Black 910,1134,медичне,High,Medina-Murray
+911,Life 911,2091,життя,Low,Perez-Lambert
+912,Knowledge 912,4784,подорожі,Medium,"Schwartz, Melton and Lee"
+913,Option 913,4242,подорожі,Low,Hubbard-Miller
+914,Assume 914,4144,подорожі,Low,Navarro Ltd
+915,Student 915,1015,від нещасного випадку,Medium,Jordan and Sons
+916,Beyond 916,2386,життя,Low,Patterson-Ellis
+917,Order 917,492,подорожі,Medium,Camacho-Harper
+918,Arm 918,145,медичне,Medium,Kelley LLC
+919,Cover 919,3140,медичне,Low,Sharp and Sons
+920,Level 920,2426,медичне,Low,Mays-Bauer
+921,The 921,2373,подорожі,Low,Smith-Turner
+922,Model 922,1110,майнове,Low,Larson-Mccoy
+923,Mention 923,3131,подорожі,High,"Williams, Henson and Nguyen"
+924,Despite 924,1166,життя,High,"Nguyen, Thomas and Adkins"
+925,Set 925,326,життя,Medium,Peck-Klein
+926,Then 926,2718,медичне,Medium,"Ramos, Copeland and Perry"
+927,Consumer 927,1975,від нещасного випадку,Medium,Jones and Sons
+928,Thus 928,2764,майнове,High,Carr Ltd
+929,Simple 929,3863,від нещасного випадку,Low,"Brown, Hubbard and Brown"
+930,Seven 930,2111,майнове,High,Harris-Vazquez
+931,Simply 931,4522,майнове,Low,"Kelly, Nichols and Case"
+932,Book 932,695,життя,Low,Gallegos-Mora
+933,Different 933,3517,майнове,Low,White-Christensen
+934,Plan 934,2574,медичне,High,Ramos LLC
+935,Science 935,1179,подорожі,Medium,"Torres, Key and Watkins"
+936,Rest 936,2808,майнове,Low,"Foley, Johnson and Jackson"
+937,Third 937,4023,подорожі,Medium,Woods-Aguilar
+938,All 938,406,від нещасного випадку,High,"Baker, Wade and Wood"
+939,Short 939,2675,медичне,High,Brewer LLC
+940,Three 940,859,від нещасного випадку,Medium,Boone Inc
+941,Respond 941,749,медичне,Low,Vang Ltd
+942,With 942,4631,від нещасного випадку,High,Bullock-Watson
+943,Few 943,4399,подорожі,High,Murillo Ltd
+944,Sometimes 944,4547,подорожі,Medium,"Ward, Williamson and Todd"
+945,Sort 945,3675,медичне,Medium,Ingram-Sanchez
+946,Congress 946,1270,медичне,Low,Lowery-Wilson
+947,Call 947,4988,від нещасного випадку,Low,Becker PLC
+948,For 948,656,життя,Medium,"Lopez, Smith and Moore"
+949,Seem 949,4278,майнове,Medium,"Rice, Banks and Hill"
+950,Suffer 950,4671,від нещасного випадку,High,Barnes-Kim
+951,Campaign 951,3937,майнове,Medium,"Taylor, Perkins and Khan"
+952,Use 952,4140,від нещасного випадку,Medium,"Little, Watts and Davis"
+953,Pattern 953,3976,подорожі,High,Myers Inc
+954,Card 954,4461,життя,Medium,Wall Ltd
+955,Morning 955,3877,подорожі,Medium,Simmons-Lambert
+956,Those 956,1236,від нещасного випадку,Medium,Aguirre-Harris
+957,Morning 957,4320,життя,Low,Page Inc
+958,Similar 958,251,життя,Low,Garcia-Cunningham
+959,Quite 959,3629,подорожі,Low,Meyer Ltd
+960,Change 960,1643,життя,Medium,"Smith, Oliver and Reyes"
+961,Interview 961,2392,подорожі,Low,Hurst-Sexton
+962,Bag 962,2428,життя,Low,Benitez LLC
+963,Prove 963,485,життя,Medium,"Sweeney, Parker and Rocha"
+964,Perhaps 964,1779,життя,Medium,"Smith, Guerrero and Patel"
+965,Blood 965,2783,життя,Low,Lopez-Ross
+966,Both 966,2977,життя,High,"Ingram, Stephens and Hardy"
+967,Behind 967,1034,медичне,High,"Hunter, Robles and Nash"
+968,Money 968,4444,медичне,High,Fry-Johnson
+969,Sort 969,3796,життя,Low,Thompson LLC
+970,Measure 970,1099,подорожі,High,Li-Johnston
+971,Find 971,4875,медичне,Medium,"Baker, Jones and Harvey"
+972,Explain 972,2863,медичне,Medium,"Figueroa, Porter and Mckinney"
+973,This 973,3326,подорожі,Low,Leonard PLC
+974,Stuff 974,817,майнове,Medium,Jackson Group
+975,Suddenly 975,4343,від нещасного випадку,Low,Schmitt-Tucker
+976,Piece 976,1585,медичне,Medium,Martinez-Hartman
+977,Particularly 977,2521,від нещасного випадку,Low,"Clark, Garcia and Jordan"
+978,Family 978,4724,майнове,High,"Dawson, Farrell and Owens"
+979,Including 979,3950,від нещасного випадку,Medium,"Donaldson, Ryan and Hill"
+980,You 980,477,подорожі,Medium,Howe PLC
+981,Size 981,3381,життя,Low,White and Sons
+982,Wide 982,1050,медичне,High,"Walters, Martin and Waters"
+983,Determine 983,230,від нещасного випадку,Low,Richardson Group
+984,Decade 984,2193,подорожі,High,Lowe-Cain
+985,Hundred 985,516,майнове,High,Ballard PLC
+986,Walk 986,3131,подорожі,Medium,Thomas Inc
+987,Feel 987,2408,від нещасного випадку,Low,Young Ltd
+988,Send 988,3700,від нещасного випадку,Medium,Reyes LLC
+989,Play 989,2372,подорожі,High,Johnson-Anderson
+990,Professor 990,1751,життя,Medium,Hodges-Walters
+991,Not 991,3455,від нещасного випадку,Low,Klein-Thomas
+992,Chair 992,1989,медичне,Low,Ross-Raymond
+993,Next 993,2833,майнове,Low,Richmond-Roberts
+994,Sea 994,304,життя,Low,Higgins LLC
+995,Truth 995,3752,життя,High,Perez-Reynolds
+996,Later 996,1499,майнове,Medium,Cooper-Jefferson
+997,First 997,387,майнове,High,Holloway-Golden
+998,Race 998,342,від нещасного випадку,Medium,Farmer Group
+999,Career 999,2557,подорожі,High,Hernandez and Sons
+1000,East 1000,1238,життя,Low,Alexander Inc
